@@ -1,0 +1,6 @@
+
+/* Class = "UILabel"; text = "Unsupported Device"; ObjectID = "aJn-xt-wAd"; */
+"aJn-xt-wAd.text" = "Unsupported Device";
+
+/* Class = "UILabel"; text = "ARKit face tracking requires a device with a TrueDepth front-facing camera.\n\nShipping apps must support devices without face tracking. In your app, offer UI to launch face tracking features only if the current device is supported."; ObjectID = "w9S-wE-sQ5"; */
+"w9S-wE-sQ5.text" = "ARKit face tracking requires a device with a TrueDepth front-facing camera.\n\nShipping apps must support devices without face tracking. In your app, offer UI to launch face tracking features only if the current device is supported.";
